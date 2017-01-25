@@ -1,0 +1,35 @@
+*{
+	font-family: Tahoma, sans-serif;
+	background-color: #f2f2f2;
+}
+p {
+	padding-left: 43px;
+}
+a {
+	font-style: italic;
+	padding-left: 43px;
+}
+img {
+	display: block;
+	width: 302px;
+	height:200px;
+	margin: auto;
+}
+h1 {
+		text-transform: uppercase;
+}
+.wrapper {
+	width:550px;
+	height: 1000px;
+	margin: 50px auto auto;
+}
+.header, .main-info, .additional-info  {
+	border-bottom: 1px solid #d5d6f0;
+}
+.additional-info {
+	padding-top: 1px;
+	padding-bottom: 20px;
+}
+.header p {
+	padding-left: 0;	
+}
